@@ -18,3 +18,8 @@ MobileBert를 이용하여 리뷰 긍부정을 예측해보는 프로젝트 입�
 
 ### 1-3. 데이터
 Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)
+
+
+## 2.데이터
+
+### 2-1. 구성
