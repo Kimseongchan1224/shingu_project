@@ -17,4 +17,5 @@ MobileBert를 이용하여 리뷰 긍부정을 예측해보는 프로젝트 입�
 따라서 리뷰와 평점의 중요성이 점차 증가하고 있으며 기업에서는 이러한 정보를 마케팅에 적극적으로 활용하고 있다.
 
 ### 1-3. 데이터
-Kaggle에서 Restaurant Review 데이터를 사용하였습니다. (https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)
+Kaggle에서 Restaurant Review 데이터를 사용하였습니다. (https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)<br>
+이 데이터 셋에는 Customer Reviews와 Liked라는 두 개의 행이 있습니다. 고객 리뷰는 식당에서 음식에 대해 고객이 제공한 리뷰를 알려주고 좋아요 열은 음식을 좋아했는지 여부를 알려줍니다.
