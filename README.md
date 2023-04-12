@@ -28,5 +28,5 @@ Kaggle에서 제공받은 Restaurant Review 데이터 [Restaurant_Reviews.xlsx](
 Reviews 행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으로 입력이 되어있습니다.<br>
 Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리뷰가 입력되어 있습니다.
 
+![TextReview](https://user-images.githubusercontent.com/79899868/231338041-a732fa52-fbc6-4ce0-be12-e429568aded4.png)
 
-![TextReview](https://user-images.githubusercontent.com/79899868/231336661-33208c1f-bd54-4b85-9aa5-f5f2663c75c3.png)
