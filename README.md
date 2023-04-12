@@ -23,5 +23,5 @@ Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(h
 ## 2.데이터
 
 ### 2-1. 구성
-[Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<
+[Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<br>
 ![TextReview](https://user-images.githubusercontent.com/79899868/231336661-33208c1f-bd54-4b85-9aa5-f5f2663c75c3.png)
