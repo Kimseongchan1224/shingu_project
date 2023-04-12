@@ -18,4 +18,6 @@ MobileBert를 이용하여 리뷰 긍부정을 예측해보는 프로젝트 입�
 
 ### 1-3. 데이터
 Kaggle에서 Restaurant Review 데이터를 사용하였습니다. (https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)<br>
-이 데이터 셋에는 Customer Reviews와 Liked라는 두 개의 행이 있습니다. 고객 리뷰는 식당에서 음식에 대해 고객이 제공한 리뷰를 알려주고 좋아요 열은 음식을 좋아했는지 여부를 알려줍니다.
+이 데이터 셋에는 Customer Reviews와 Liked라는 두 개의 행이 있습니다. <br>
+Customer Reviews의 행은 사람들이 텍스로 남긴 리뷰가 있고 Liked의 행은 0과 1이 입력되어 있습니다.
+1은 긍정적, 0은 부정적인 리뷰로 분류가 되어 있습니다.
