@@ -23,10 +23,10 @@ Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(h
 ## 2.데이터
 
 ### 2-1. 구성
-Kaggle에서 다운받은 Restaurant Review 데이터 [Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<br><br>
-이 데이터 세트에는 Customer Reviews와 Liked라는 두 개의 행이 있습니다.<br>
-Customer Reviews행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으로 입력이 되어있습니다.<br>
-Liked행에 1은 긍정적 리뷰가 입력되어있고 0은 부정적인 리뷰가 입력되어있습니다.
+Kaggle에서 제공받은 Restaurant Review 데이터 [Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<br><br>
+이 데이터 세트에는 Reviews와 Liked라는 두 개의 행이 있습니다.<br>
+Reviews 행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으로 입력이 되어있습니다.<br>
+Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리뷰가 입력되어 있습니다.
 
 
 ![TextReview](https://user-images.githubusercontent.com/79899868/231336661-33208c1f-bd54-4b85-9aa5-f5f2663c75c3.png)
