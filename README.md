@@ -23,5 +23,8 @@ Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(h
 ## 2.데이터
 
 ### 2-1. 구성
-[Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<br>
+Kaggle에서 다운받은 Restaurant Review 데이터 [Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx)<br>
+이 데이터 세트에는 Customer Reviews와 Liked라는 두 개의 행이 있습니다.<br>
+
+
 ![TextReview](https://user-images.githubusercontent.com/79899868/231336661-33208c1f-bd54-4b85-9aa5-f5f2663c75c3.png)
