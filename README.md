@@ -31,6 +31,7 @@ Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리�
 ![TextReview](https://user-images.githubusercontent.com/79899868/231338041-a732fa52-fbc6-4ce0-be12-e429568aded4.png)<br>
 ### 2-2. 정보
 
-![describe](https://user-images.githubusercontent.com/79899868/232363596-611fd9f9-3878-4105-aedd-9c50c41984b6.png)
-![bar](https://user-images.githubusercontent.com/79899868/232367058-29a0d443-0ed8-4807-ad43-e4b7d75fc201.png)
+![describe]![bar](https://user-images.githubusercontent.com/79899868/232367207-660881e3-6b98-45a3-8f32-73aa4cea9af8.png)
+(https://user-images.githubusercontent.com/79899868/232363596-611fd9f9-3878-4105-aedd-9c50c41984b6.png)
+
 
