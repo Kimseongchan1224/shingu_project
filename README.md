@@ -32,4 +32,5 @@ Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리�
 ### 2-2. 정보
 
 ![describe](https://user-images.githubusercontent.com/79899868/232363596-611fd9f9-3878-4105-aedd-9c50c41984b6.png)
+![bar](https://user-images.githubusercontent.com/79899868/232367058-29a0d443-0ed8-4807-ad43-e4b7d75fc201.png)
 
