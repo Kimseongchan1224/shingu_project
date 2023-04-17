@@ -31,9 +31,9 @@ Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리�
 ![TextReview](https://user-images.githubusercontent.com/79899868/231338041-a732fa52-fbc6-4ce0-be12-e429568aded4.png)<br>
 ### 2-2. 정보
 
-![describe](https://user-images.githubusercontent.com/79899868/232367303-3e6037ab-e7f7-4ea7-9ee0-90b973972bc1.png)<br>
+![describe](https://user-images.githubusercontent.com/79899868/232367303-3e6037ab-e7f7-4ea7-9ee0-90b973972bc1.png)
 
-데이터의 긍부정비율이 비슷한것을 볼 수 있다.
+데이터의 긍부정비율이 비슷한것을 볼 수 있다.<br>
 ![bar](https://user-images.githubusercontent.com/79899868/232367307-11329b9f-e185-4c2e-9b7f-478e647d0d17.png)<br>
 
 
