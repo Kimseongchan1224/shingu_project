@@ -29,3 +29,6 @@ Reviews 행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으�
 Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리뷰가 입력되어 있다.
 
 ![TextReview](https://user-images.githubusercontent.com/79899868/231338041-a732fa52-fbc6-4ce0-be12-e429568aded4.png)<br>
+### 2-2. 정보
+
+![describe](https://user-images.githubusercontent.com/79899868/232363596-611fd9f9-3878-4105-aedd-9c50c41984b6.png)
