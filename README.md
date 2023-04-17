@@ -19,6 +19,8 @@ MobileBert를 이용하여 리뷰 긍부정을 예측해보는 프로젝트 입�
 ### 1-3. 데이터
 Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews)
 
+### 1-4. 데이터 가공 과정
+![ing](https://user-images.githubusercontent.com/79899868/232393906-ee5e2b72-f81b-4846-821d-2599d7251d57.png)<br>
 
 ## 2.데이터
 
@@ -36,7 +38,6 @@ Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리�
 데이터의 긍부정비율이 비슷한것을 볼 수 있다.<br>
 ![bar](https://user-images.githubusercontent.com/79899868/232367307-11329b9f-e185-4c2e-9b7f-478e647d0d17.png)<br>
 
-![ing](https://user-images.githubusercontent.com/79899868/232393906-ee5e2b72-f81b-4846-821d-2599d7251d57.png)
 
 
 
