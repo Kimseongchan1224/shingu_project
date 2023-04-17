@@ -36,5 +36,6 @@ Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리�
 데이터의 긍부정비율이 비슷한것을 볼 수 있다.<br>
 ![bar](https://user-images.githubusercontent.com/79899868/232367307-11329b9f-e185-4c2e-9b7f-478e647d0d17.png)<br>
 
+![ing](https://user-images.githubusercontent.com/79899868/232393760-6d18d27d-f071-4cef-9bec-ace0990bd985.png)
 
 
