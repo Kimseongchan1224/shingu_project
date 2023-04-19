@@ -27,7 +27,7 @@ Kaggle에서 Restaurant Review 데이터를 사용하였습니다. @ARSH ANWAR(h
 ### 2-1. 구성
 Kaggle에서 제공받은 Restaurant Review 데이터 ([Restaurant_Reviews.xlsx](https://github.com/Kimseongchan1224/shingu_project/files/11206689/Restaurant_Reviews.xlsx))<br><br>
 이 데이터 세트에는 Reviews와 Liked라는 두 개의 행이 있다.<br>
-Reviews 행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으로 입력이 되어있다.<br>
+Reviews 행은 소비자들이 남긴 텍스트 리뷰, Liked 행은 1과 0으로 입력되어 있다.<br>
 Liked 행에 1은 긍정적 리뷰가 입력되어 있고 0은 부정적인 리뷰가 입력되어 있다.
 
 ![TextReview](https://user-images.githubusercontent.com/79899868/231338041-a732fa52-fbc6-4ce0-be12-e429568aded4.png)<br>
