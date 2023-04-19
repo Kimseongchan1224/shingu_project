@@ -1,4 +1,4 @@
-# shingu_project
+# 음식점 리뷰 긍부정예측 분석
 ![review](https://user-images.githubusercontent.com/79899868/231330013-53ccb539-4bc6-4349-8a58-c418e07ff03e.png)
 
 MobileBert를 이용하여 리뷰 긍부정을 예측해보는 프로젝트 입니다.
