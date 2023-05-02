@@ -1,4 +1,4 @@
-# <div align=center>YouTube 댓글 긍부정 예측분석</div>
+# <div align=center>AMAZON 리뷰 긍부정 예측분석</div>
 
 ![you](https://user-images.githubusercontent.com/79899868/235564536-f334f776-56aa-494d-aaec-bba49b6d521c.png)<br>
 
@@ -38,6 +38,6 @@
 | `Likes` | *댓글이 받은 좋아요 수입니다.* |
 | `Sentiment` | *0의 값은 부정적 1 또는 2의 값은 각각 중립 및 긍정적인 감정을 나타냅니다.* |<br><br>
 
-![datacap](https://user-images.githubusercontent.com/79899868/235628619-d250c769-0be8-45e9-8865-a280745407a1.png)
+
 
 
