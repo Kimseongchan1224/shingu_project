@@ -1,6 +1,7 @@
 # <div align=center>AMAZON 리뷰 긍부정 예측분석</div>
 
-![you](https://user-images.githubusercontent.com/79899868/235564536-f334f776-56aa-494d-aaec-bba49b6d521c.png)<br>
+![amazon](https://user-images.githubusercontent.com/79899868/235654749-1d84201c-e4d3-44f9-9624-00d7a4d562f9.png)<br>
+
 
 <div align=center>YouTube는 구글이 운영하는 동영상 공유 서비스로, 사용자가 동영상을 업로드하고 시청하며 공유할 수 있도록 한다. <br> 당신(You)과 브라운관(Tube, 텔레비전)이라는 단어의 합성어이다.</div>
 <div align=center>
