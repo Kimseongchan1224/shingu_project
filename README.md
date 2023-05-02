@@ -41,6 +41,8 @@
 | `cleaned_review` | *텍스트 리뷰 데이터 입니다.* |
 | `cleaned_review_length` | *텍스트 리뷰의 길이 입니다.(단어 갯수)* |
 | `review_score` | *1부터5까지 점수를 나타냅니다* |<br><br>
+
+
 ![datacap](https://user-images.githubusercontent.com/79899868/235663380-ccfee586-4cd2-46c6-ba7d-e4c12e3c5759.png)
 
 
