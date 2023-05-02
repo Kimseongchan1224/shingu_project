@@ -2,7 +2,7 @@
 ![amazon](https://user-images.githubusercontent.com/79899868/235655097-f163a37c-ec5c-4337-8c28-e230e1064586.png)<br>
 
 
-<div align=center>YouTube는 구글이 운영하는 동영상 공유 서비스로, 사용자가 동영상을 업로드하고 시청하며 공유할 수 있도록 한다. <br> 당신(You)과 브라운관(Tube, 텔레비전)이라는 단어의 합성어이다.</div>
+<div align=center>Amazon은 미국의 인터넷 플랫폼 기업으로, 세계 최대의 온라인 쇼핑몰 기업이자 세계 최대의 클라우드 컴퓨팅 서비스 기업이다.</div>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a>
