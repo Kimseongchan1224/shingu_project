@@ -22,15 +22,20 @@
 리뷰 시스템을 활발하게 구축하고 있다. 이에 발 맞춰 온라인 쇼핑몰이 사용하는 리뷰 솔루션 업체들 역시 서비스를 빠르게 고도화 중이다.이처럼 커머스들이 너 나 할 것 없이 리뷰 시스템에 투자하는 이유는 소비자 후기가 
 매출에 실질적인 영향을 주기 때문이다. ‘맥킨지앤드컴퍼니’의 조사에 따르면 실구매자의 후기는, 쇼핑몰의 추천보다 잠재소비자의 구매 결정에 10배 가량 높은 영향력을 행사한다고 한다.
 >[출처:아시아투데이](https://www.asiatoday.co.kr/view.php?key=20200219010011433)<br>
+
 ## 예측분석 순서
-![can](https://user-images.githubusercontent.com/79899868/235659829-bc2a41fc-e239-47ff-9815-df44259bc5f4.png)
- <br>
+
+![can](https://user-images.githubusercontent.com/79899868/235660196-9864d0ac-e9b1-4537-ba72-5bedfe42619f.png)<br>
+
 - 분석할 아마존 리뷰 데이터를 Kaggle에서 Excel 데이터 다운로드
 - Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업
 - python을 활용하여 텍스트 데이터를 학습시키는 작업
 - 학습이 된 프로그램을 작동시켜 긍정과 부정으로 분류하는지 확인
+- 
 ## 데이터 미리보기
+
 [YouTube 댓글 데이터 @kaggle/ADVAY PATIL](https://www.kaggle.com/datasets/advaypatil/youtube-statistics/versions/1?resource=download)
+
 | 데이터 | 구분 |
 | --- | --- |
 | `video ID` | *동영상 식별자입니다.* |
