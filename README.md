@@ -1,6 +1,7 @@
 # YouTube 댓글 긍부정 예측분석
 
-![yo](https://user-images.githubusercontent.com/79899868/235559730-d1947bc2-b653-4724-874b-42005951c35e.png)
+![you](https://user-images.githubusercontent.com/79899868/235564536-f334f776-56aa-494d-aaec-bba49b6d521c.png)
+
 
 ## 1. 개요
 
