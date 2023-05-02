@@ -2,7 +2,7 @@
 
 ![you](https://user-images.githubusercontent.com/79899868/235564536-f334f776-56aa-494d-aaec-bba49b6d521c.png)<br>
 
-<div align=center>YouTube 구글이 운영하는 동영상 공유 서비스로, 사용자가 동영상을 업로드하고 시청하며 공유할 수 있도록 한다. 당신(You)과 브라운관(Tube, 텔레비전)이라는 단어의 합성어이다.</div>
+<div align=center>YouTube는 구글이 운영하는 동영상 공유 서비스로, 사용자가 동영상을 업로드하고 시청하며 공유할 수 있도록 한다. <당신(You)과 브라운관(Tube, 텔레비전)이라는 단어의 합성어이다.</div>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a>
