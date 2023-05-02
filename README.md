@@ -25,9 +25,9 @@
 >[출처:여론속의 여론 이동한 차장](https://hrcopinion.co.kr/archives/11809)<br>
 ## 예측분석 순서
 ![1](https://user-images.githubusercontent.com/79899868/235610290-be8fb94c-08a3-420e-acda-7803354810ea.png)<br>
--분석할 유튜브 댓글 데이터 Kaggle에서 Excel 데이터 다운로드
--Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업
--python을 활용하여 텍스트 데이터를 학습시키는 작업
--학습이 된 프로그램을 작동시켜 긍정과 부정으로 분류하는지 확인
+- 분석할 유튜브 댓글 데이터 Kaggle에서 Excel 데이터 다운로드
+- Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업
+- python을 활용하여 텍스트 데이터를 학습시키는 작업
+- 학습이 된 프로그램을 작동시켜 긍정과 부정으로 분류하는지 확인
 
 
