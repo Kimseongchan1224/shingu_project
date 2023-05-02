@@ -1,4 +1,4 @@
-# <div align=center>YouTube 댓글 긍부정 예측분석</>
+# <div align=center>YouTube 댓글 긍부정 예측분석</div>
 
 ![you](https://user-images.githubusercontent.com/79899868/235564536-f334f776-56aa-494d-aaec-bba49b6d521c.png)
 
