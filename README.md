@@ -48,7 +48,10 @@
 ![1-5](https://user-images.githubusercontent.com/79899868/235672123-d66430a3-f692-4df2-8da8-469960cf31ed.png)<br>
 - review_score는 1~5까지 점수 데이터인데 5)1)4)2)3 순서로 5점이 제일 많다고 볼 수 있다.<br>
 ![3p](https://user-images.githubusercontent.com/79899868/235672552-0ca8323d-ba38-49cf-93a2-a73c09bb9f9a.png)<br>
-- 
+- sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 
+- positive 긍정적 55% 
+- neutral  중립적 36%
+- other    기타    9% 
 
 
 
