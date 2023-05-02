@@ -30,6 +30,7 @@
 - python을 활용하여 텍스트 데이터를 학습시키는 작업
 - 학습이 된 프로그램을 작동시켜 긍정과 부정으로 분류하는지 확인
 ## 데이터 미리보기
+[YouTube 댓글 데이터 @kaggle/ADVAY PATIL](https://www.kaggle.com/datasets/advaypatil/youtube-statistics/versions/1?resource=download)
 | 데이터 | 구분 |
 | --- | --- |
 | `video ID` | *동영상 식별자입니다.* |
