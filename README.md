@@ -25,7 +25,7 @@
 
 ## 예측분석 순서
 
-![can](https://user-images.githubusercontent.com/79899868/235660196-9864d0ac-e9b1-4537-ba72-5bedfe42619f.png)<br>
+![can](https://user-images.githubusercontent.com/79899868/235660196-9864d0ac-e9b1-4537-ba72-5bedfe42619f.png)
 
 - 분석할 아마존 리뷰 데이터를 Kaggle에서 Excel 데이터 다운로드
 - Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업
