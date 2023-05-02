@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-</div><br>
+</div><hr>
 
 ### 문제정의
 - 유튜브의 규모가 커져가는 가운데 영상의 댓글을 알아서 분류해 주는 프로그램을 개발하고 싶었다.
