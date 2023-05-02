@@ -44,17 +44,17 @@
 
 ![datacap0](https://user-images.githubusercontent.com/79899868/235671713-3354cbe0-d1f7-42df-a9dd-66e3960d4b8c.png)<br>
 ![datacap1](https://user-images.githubusercontent.com/79899868/235671750-75d17724-82d2-4b4d-a33e-d06a0e995deb.png)<br>
-![1-5](https://user-images.githubusercontent.com/79899868/235672123-d66430a3-f692-4df2-8da8-469960cf31ed.png)<br>
-- review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.<br>
+![15](https://user-images.githubusercontent.com/79899868/235681260-4fe62d0c-7514-40fc-935f-1946e5a30d6f.png)<br>
+- review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
 ![33](https://user-images.githubusercontent.com/79899868/235680794-b84aa442-2734-41e7-841e-70e6508746ed.png)
 <br>
 
-- positive 긍정적 55% 
-- neutral  중립적 36%
-- other    기타    9% 
+- positive 긍정적  
+- neutral  중립적
+- negative  기타   
 
-sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 긍정적인 데이터가 50% 이상 차지하고 있다.<br> 
-데이터를 학습시킬 때 중립의 데이터를 부정 데이터의 추가하여 학습할 것이다. ex)5-4점 긍정, 3-1점 부정<br>
+sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 중립적인 데이터가 50% 이상 차지하고 있다.<br> 
+데이터를 학습시킬 때 중립의 데이터를 중립 데이터를 잘 분배하여 긍정과 부정데이터로 추가가 필요하다.<br>
 
 
 
