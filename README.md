@@ -46,7 +46,8 @@
 ![datacap1](https://user-images.githubusercontent.com/79899868/235671750-75d17724-82d2-4b4d-a33e-d06a0e995deb.png)<br>
 ![1-5](https://user-images.githubusercontent.com/79899868/235672123-d66430a3-f692-4df2-8da8-469960cf31ed.png)<br>
 - review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.<br>
-![3p](https://user-images.githubusercontent.com/79899868/235672552-0ca8323d-ba38-49cf-93a2-a73c09bb9f9a.png)<br>
+![33](https://user-images.githubusercontent.com/79899868/235680794-b84aa442-2734-41e7-841e-70e6508746ed.png)
+<br>
 
 - positive 긍정적 55% 
 - neutral  중립적 36%
