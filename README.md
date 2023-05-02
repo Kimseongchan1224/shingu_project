@@ -33,7 +33,7 @@
 - 
 ## 데이터 미리보기
 
-[아마존 리뷰 데이터 @kaggle/DANIEL IHENACHO](https://www.kaggle.com/datasets/advaypatil/youtube-statistics/versions/1?resource=download)
+[아마존 리뷰 데이터 @kaggle/DANIEL_IHENACHO](https://www.kaggle.com/datasets/advaypatil/youtube-statistics/versions/1?resource=download)
 
 | 데이터 | 구분 |
 | --- | --- |
