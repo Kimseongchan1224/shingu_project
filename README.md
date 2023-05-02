@@ -43,8 +43,8 @@
 | `review_score` | *1부터5까지 점수를 나타냅니다* |<br><br>
 
 
-![datacap](https://user-images.githubusercontent.com/79899868/235663380-ccfee586-4cd2-46c6-ba7d-e4c12e3c5759.png)<br>
-<br>
+![datacap0](https://user-images.githubusercontent.com/79899868/235671713-3354cbe0-d1f7-42df-a9dd-66e3960d4b8c.png)<br>
+![datacap1](https://user-images.githubusercontent.com/79899868/235671750-75d17724-82d2-4b4d-a33e-d06a0e995deb.png)<br>
 
 ㄴ
 
