@@ -36,7 +36,7 @@
 | `video ID` | *동영상 식별자입니다.* |
 | `Comment` | *댓글 텍스트입니다.* |
 | `Likes` | *댓글이 받은 좋아요 수입니다.* |
-| `Sentiment` | *0의 값은 부정적 1 또는 2의 값은 각각 중립 및 긍정적인 감정을 나타냅니다.* |<br>
+| `Sentiment` | *0의 값은 부정적 1 또는 2의 값은 각각 중립 및 긍정적인 감정을 나타냅니다.* |<br><br>
 ![datacap](https://user-images.githubusercontent.com/79899868/235628619-d250c769-0be8-45e9-8865-a280745407a1.png)
 
 
