@@ -3,9 +3,7 @@
 
 <div align=center>Amazon은 미국의 인터넷 플랫폼 기업으로, 세계 최대의 온라인 쇼핑몰 기업이자 세계 최대의 클라우드 컴퓨팅 서비스 기업이다.</div>
 
-[출처:로고](https://logos-world.net/amazon-logo/)
-
-[출처:나무위키](https://namu.wiki/w/%EC%95%84%EB%A7%88%EC%A1%B4)
+[출처:로고](https://logos-world.net/amazon-logo/) [출처:나무위키](https://namu.wiki/w/%EC%95%84%EB%A7%88%EC%A1%B4)
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a>
