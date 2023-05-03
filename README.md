@@ -32,7 +32,9 @@
 - Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업
 - python을 활용하여 텍스트 데이터를 학습시키는 작업
 - 학습이 된 프로그램을 작동시켜 긍정과 부정으로 분류하는지 확인
+- 
 >[로고](https://icon-icons.com/ko/%EC%95%84%EC%9D%B4%EC%BD%98/amazon-%EB%A1%9C%EA%B3%A0/169611]
+
 ## 데이터 미리보기
 
 [아마존 리뷰 데이터 @kaggle/DANIEL_IHENACHO](https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset)
