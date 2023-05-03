@@ -76,5 +76,6 @@
 - 데이터를 학습시킬 때 중립의 데이터를 분배하여 부정데이터로 추가하여 학습이 필요하다.<br>
 
 ![ju2](https://user-images.githubusercontent.com/79899868/235823147-d7392571-3762-49ed-a712-92b610c4e3f0.png)
-
+<br> 
+- cleaned_review_length의 도수분표포이다.
 
