@@ -48,12 +48,19 @@
 | `review_score` | *1부터5까지 점수를 나타냅니다* |<br>
 
 
-| `sentiments` | `cleaned_review |  `cleaned_review_length | `review_score` |
-| --- | --- | --- | --- |
-|  | |  |  |
-|  | |  |  |
-|  | |  |  |
-|  | |  |  |
+| count| `sentiments` | `cleaned_review |  `cleaned_review_length | `review_score` |
+| --- | --- | --- | --- | --- |
+| 0 | positive | i wish would have gotten one earlier love it a... | 19 | 5 |
+| 1 | neutral	  | i ve learned this lesson again open the packag...	 | 88 | 1 |
+| 2 | neutral | it is so slow and lags find better option	 | 9 | 2 |
+| 3 | neutral | roller ball stopped working within months of m... | 12 | 1 |
+| 4 | neutral | i like the color and size but it few days out ...	 | 21 | 1 |
+|... | ... | ... | ... | ... |
+| 17335| positive | i love this speaker and love can take it anywh...	 | 30 | 5 |
+| 17336 | positive | i use it in my house easy to connect and loud ... | 13 | 4 |
+| 17337 | positive | the bass is good and the battery is amazing mu...	 | 41 | 5 |
+| 17338 | positive | love it | 2 | 5 |
+| 17339 | neutral | mono speaker	 | 2 | 5 |
 
 ![15](https://user-images.githubusercontent.com/79899868/235681260-4fe62d0c-7514-40fc-935f-1946e5a30d6f.png)<br>
 - review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
