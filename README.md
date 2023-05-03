@@ -1,4 +1,4 @@
-# <div align=center>⭐⭐⭐⭐⭐<br>AMAZON 리뷰 긍부정 예측분석</div>
+# <div align=center>⭐AMAZON 리뷰 긍부정 예측분석⭐</div>
 ![amazon](https://user-images.githubusercontent.com/79899868/235655097-f163a37c-ec5c-4337-8c28-e230e1064586.png)
 
 <div align=center>Amazon은 미국의 인터넷 플랫폼 기업으로, 세계 최대의 온라인 쇼핑몰 기업이자 세계 최대의 클라우드 컴퓨팅 서비스 기업이다.</div>
