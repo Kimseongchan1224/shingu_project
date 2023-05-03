@@ -48,8 +48,13 @@
 | `review_score` | *1부터5까지 점수를 나타냅니다* |<br><br>
 
 
-![datacap0](https://user-images.githubusercontent.com/79899868/235671713-3354cbe0-d1f7-42df-a9dd-66e3960d4b8c.png)<br>
-![datacap1](https://user-images.githubusercontent.com/79899868/235671750-75d17724-82d2-4b4d-a33e-d06a0e995deb.png)<br>
+| 데이터 | 구분 | 데이터 | 구분 |
+| --- | --- | 데이터 | 구분 |
+| `sentiments` | *부정적, 중립적, 긍정적 3가지로 데이터를 나타냅니다..* | 데이터 | 구분 |
+| `cleaned_review` | *텍스트 리뷰 데이터 입니다.* |데이터 | 구분 |
+| `cleaned_review_length` | *텍스트 리뷰의 길이 입니다.(단어 갯수)* |데이터 | 구분 |
+| `review_score` | *1부터5까지 점수를 나타냅니다* |데이터 | 구분 |
+
 ![15](https://user-images.githubusercontent.com/79899868/235681260-4fe62d0c-7514-40fc-935f-1946e5a30d6f.png)<br>
 - review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
 ![33](https://user-images.githubusercontent.com/79899868/235680794-b84aa442-2734-41e7-841e-70e6508746ed.png)
