@@ -64,7 +64,8 @@
 
 ![ju3](https://user-images.githubusercontent.com/79899868/235822133-4ef305bf-b137-4c94-914e-e9d3b4a94998.png)
 <br>
-- review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
+- review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.
+- 5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br><br>
 ![ju1](https://user-images.githubusercontent.com/79899868/235822212-ce44d66b-6b84-4bf2-b000-ea92fa7e0e80.png)
 <br>
 - positive 긍정적  
