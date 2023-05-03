@@ -62,12 +62,11 @@
 | 17338 | positive | love it | 2 | 5 |
 | 17339 | neutral | mono speaker	 | 2 | 5 |<br>
 
-![dtf](https://user-images.githubusercontent.com/79899868/235822123-4d5943da-118f-4901-9354-87841d083eff.png)
-<br>
-- review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
 ![ju3](https://user-images.githubusercontent.com/79899868/235822133-4ef305bf-b137-4c94-914e-e9d3b4a94998.png)
 <br>
-
+- review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
+![ju1](https://user-images.githubusercontent.com/79899868/235822212-ce44d66b-6b84-4bf2-b000-ea92fa7e0e80.png)
+<br>
 - positive 긍정적  
 - neutral  중립적
 - negative 부정적   
