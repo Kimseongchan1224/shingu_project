@@ -60,6 +60,6 @@
 
 sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 중립적인 데이터가 50% 이상 차지하고 있다.<br> 
 데이터를 학습시킬 때 중립의 데이터를 중립 데이터를 잘 분배하여 긍정과 부정데이터로 추가가 필요하다.<br>
-
+>[kaggle@HARIHARAN S](https://www.kaggle.com/code/hariharanalm/sentiment-analysis-with-amazon-reviews)
 
 
