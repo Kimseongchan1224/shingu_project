@@ -48,7 +48,7 @@
 | `review_score` | *1부터5까지 점수를 나타냅니다* |<br>
 
 
-| count| `sentiments` | `cleaned_review |  `cleaned_review_length | `review_score` |
+| count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
 | --- | --- | --- | --- | --- |
 | 0 | positive | i wish would have gotten one earlier love it a... | 19 | 5 |
 | 1 | neutral	  | i ve learned this lesson again open the packag...	 | 88 | 1 |
