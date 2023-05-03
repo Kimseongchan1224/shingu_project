@@ -62,6 +62,8 @@
 | 17338 | positive | love it | 2 | 5 |
 | 17339 | neutral | mono speaker	 | 2 | 5 |<br>
 
+<div align=center>
+
 ![ju3](https://user-images.githubusercontent.com/79899868/235822133-4ef305bf-b137-4c94-914e-e9d3b4a94998.png)
 <br>
 - review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
@@ -73,6 +75,6 @@
 
 sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 중립적인 데이터가 50% 이상 차지하고 있다.<br> 
 데이터를 학습시킬 때 중립의 데이터를 중립 데이터를 잘 분배하여 긍정과 부정데이터로 추가가 필요하다.<br>
->[kaggle@HARIHARAN S](https://www.kaggle.com/code/hariharanalm/sentiment-analysis-with-amazon-reviews)
+</div>
 
 
