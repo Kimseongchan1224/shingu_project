@@ -68,6 +68,7 @@
 - 5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br><br>
 ![ju1](https://user-images.githubusercontent.com/79899868/235822212-ce44d66b-6b84-4bf2-b000-ea92fa7e0e80.png)
 <br>
+
 - positive 긍정적  
 - neutral  중립적
 - negative 부정적   
