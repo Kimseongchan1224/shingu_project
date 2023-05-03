@@ -60,7 +60,7 @@
 | 17336 | positive | i use it in my house easy to connect and loud ... | 13 | 4 |
 | 17337 | positive | the bass is good and the battery is amazing mu...	 | 41 | 5 |
 | 17338 | positive | love it | 2 | 5 |
-| 17339 | neutral | mono speaker	 | 2 | 5 |
+| 17339 | neutral | mono speaker	 | 2 | 5 |<br>
 
 ![ju3](https://user-images.githubusercontent.com/79899868/235821714-8a47a24b-af4d-4050-9d91-9738fa6d1eb5.png)<br>
 - review_score는 1~5까지 점수 데이터인데 1➡5➡2➡3➡4 순서로 1점이 제일 많다고 볼 수 있다.<br>
