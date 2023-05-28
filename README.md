@@ -93,7 +93,7 @@ review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5�
 | 4 | positive | quality of sound is good however volume level compared to...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
 
-review_score의 값이 4인 데이터셋들을 5로  3과 2를 1로 변경함.<br>
+review_score의 값이 4인 데이터셋들을 5로 변경하고 2와 3을 1로 변경함.<br>
 
 ![p1](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/dfd2ffd6-d12a-4bef-a7d1-d608ece081c2)
 
