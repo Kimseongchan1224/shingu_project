@@ -102,13 +102,13 @@ review_score의 1점의 데이터셋은 6000개로 2000개 정도 증가하였�
 
 | Text | Sentiment |
 | --- | --- |
-| very nice work done on these speakers...| 5 |
+| very nice work done on these speakers...| 0 |
 | after months stopped working none of ... | 1 |
-| bose who why spend so much money on bose... | 5 |
-| for starters the box came cut up dont... | 5 |
+| bose who why spend so much money on bose... | 0 |
+| for starters the box came cut up dont... | 0 |
 | for the price it not bad headset sound... | 1 |
 | i am fan on jelly bean type of mouse had ... | 1 |
-| i am fan on jelly bean type of mouse had... | 5 |
-| i like this keyboard because it is huge... | 5 |
+| i am fan on jelly bean type of mouse had... | 0 |
+| i like this keyboard because it is huge... | 0 |
 
 
