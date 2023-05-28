@@ -77,9 +77,9 @@ review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5�
 | --- | --- | --- | --- | --- |
 | 0 | negative | i loved this keyboard when first started using it but that didn... | 99 | 1 |
 | 1 | positive | i not rating this one star because it is cute mouse and like...	 | 99| 4 |
-| 2 | positive | i not rating this one star because it is cute mouse and like...	 | 99| 1 |
+| 2 | positive | it pretty comfortable and the noise canceling is pretty good...	 | 99| 5 |
 | 3 | positive | i really liked this mouse being able to charge it and not... | 99 | 5 |
-| 4 | positive | i use this for when am showering and got it to replace bose...	 | 99 | 1 |
+| 4 | positive | i use this for when am showering and got it to replace bose...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
 
 문장에 들어가는 단어의 길이가 100개 이상인 데이터를 제거함.<br>
@@ -87,8 +87,14 @@ review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5�
 | count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
 | --- | --- | --- | --- | --- |
 | 0 | negative | i loved this keyboard when first started using it but that didn... | 99 | 1 |
-| 1 | positive | i not rating this one star because it is cute mouse and like...	 | 99| 4 |
-| 2 | positive | i not rating this one star because it is cute mouse and like...	 | 99| 1 |
+| 1 | positive | i not rating this one star because it is cute mouse and like...	 | 99| 5 |
+| 2 | positive | it pretty comfortable and the noise canceling is pretty good...	 | 99| 5 |
 | 3 | positive | i really liked this mouse being able to charge it and not... | 99 | 5 |
-| 4 | positive | i use this for when am showering and got it to replace bose...	 | 99 | 1 |
+| 4 | positive | quality of sound is good however volume level compared to...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
+
+review_score의 값이 4인 데이터셋들을 5로  3과 2를 1로 변경함.<br>
+
+![p1](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/dfd2ffd6-d12a-4bef-a7d1-d608ece081c2)
+
+
