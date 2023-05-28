@@ -61,12 +61,18 @@
 | 17336 | positive | i use it in my house easy to connect and loud ... | 13 | 4 |
 | 17337 | positive | the bass is good and the battery is amazing mu...	 | 41 | 5 |
 | 17338 | positive | love it | 2 | 5 |
-| 17339 | neutral | mono speaker	 | 2 | 5 |<br>
+| 17339 | neutral | mono speaker	 | 2 | 5 |<br><br>
 
-![onesi](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/5a02640a-77b2-4600-9eb8-8c9e06b1a2c8)
+![onesi](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/5a02640a-77b2-4600-9eb8-8c9e06b1a2c8)<br>
 
+positive 긍정적, neutral  중립적, negative 부정적<br> 
+sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 긍정적인 데이터가 50% 이상 차지하고 있다.<br> 
+데이터를 학습시킬 때 중립의 데이터를 분배를 하여 학습이 필요하다.<br><br>
 
+텍스트 리뷰 길이의 대한 도수분포표이다. 100개 이상의 단어를 사용한 데이터 삭제가 필요하다.<br><br>
 
+review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.<br> 
+-5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br> <br> 
 
 
 
