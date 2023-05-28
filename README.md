@@ -29,7 +29,6 @@
 ### 1-3.예측분석 순서
 
 ![dtf](https://user-images.githubusercontent.com/79899868/235818872-71472c0f-fbb9-4364-8c67-ed5d504a5557.png)
-
 1. 분석할 아마존 리뷰 데이터를 Kaggle에서 Excel 데이터을 확보를 합니다.
 2. Excel 데이터를 pycham에서 인식할 수 있게 텍스트화 작업을 합니다.
 3. python을 활용하여 텍스트 데이터를 학습시키는 작업 합니다.
