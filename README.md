@@ -73,4 +73,11 @@ review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5�
 5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br> <br> 
 
 ### 2-2.가공데이터
-
+| count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
+| --- | --- | --- | --- | --- |
+| 0 | negative | i loved this keyboard when first started using it but that didn last very long... | 99 | 1 |
+| 1 | positive | i not rating this one star because it is cute mouse and like the design for some reason found...	 | 99| 4 |
+| 2 | positive | i not rating this one star because it is cute mouse and like the design for some reason found my macbook trackpad...	 | 99| 1 |
+| 3 | positive | i really liked this mouse being able to charge it and not worry about batteries was working great up... | 99 | 5 |
+| 4 | positive | i really liked this mouse being able to charge it and not worry about batteries  ...	 | 99 | 1 |
+|... | ... | ... | ... | ... |
