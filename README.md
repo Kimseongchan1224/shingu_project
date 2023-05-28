@@ -40,6 +40,7 @@
 
 [아마존 리뷰 데이터 @kaggle/DANIEL_IHENACHO](https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset)
 
+### 2-1.원시데이터
 | 데이터 | 구분 |
 | --- | --- |
 | `sentiments` | *부정적, 중립적, 긍정적 3가지로 데이터를 나타냅니다..* |
@@ -61,6 +62,22 @@
 | 17337 | positive | the bass is good and the battery is amazing mu...	 | 41 | 5 |
 | 17338 | positive | love it | 2 | 5 |
 | 17339 | neutral | mono speaker	 | 2 | 5 |<br>
+
+![onesi](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/5a02640a-77b2-4600-9eb8-8c9e06b1a2c8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+###################################################################################################
 
 ![ju3](https://user-images.githubusercontent.com/79899868/235822133-4ef305bf-b137-4c94-914e-e9d3b4a94998.png)
 <br>
