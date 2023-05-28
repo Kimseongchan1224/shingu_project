@@ -98,6 +98,17 @@ review_score의 값이 4인 데이터셋들을 5로 변경하고 2와 3을 1로 
 ![p1](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/dfd2ffd6-d12a-4bef-a7d1-d608ece081c2)
 첫번째 그래프는 변경하지 않아서 변경없이 원시데이터 그대로 출력이 되었다.<br> 
 대부분 리뷰데이터의 텍스트 길이는 0 ~ 20개의 단어 정도 사용하는 것을 볼 수 있고 40 ~ 100개의 단어를 사용한 리뷰는 단어의 가 올라갈수록 줄어드는 것을 볼 수 있다.
-review_score의 1점의 데이터셋은 6000개로 2000개 정도 증가하였고 5점의 데이터셋은 10000만개 이상으로 증가하였다.
+review_score의 1점의 데이터셋은 6000개로 2000개 정도 증가하였고 5점의 데이터셋은 10000만개 이상으로 증가하였다. <br><br> 
+
+| Text | Sentiment |
+| --- | --- |
+| very nice work done on these speakers...| 5 |
+| after months stopped working none of ... | 1 |
+| bose who why spend so much money on bose... | 5 |
+| for starters the box came cut up dont... | 5 |
+| for the price it not bad headset sound... | 1 |
+| i am fan on jelly bean type of mouse had ... | 1 |
+| i am fan on jelly bean type of mouse had... | 5 |
+| i like this keyboard because it is huge... | 5 |
 
 
