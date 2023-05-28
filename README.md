@@ -81,7 +81,9 @@ review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5�
 | 3 | positive | i really liked this mouse being able to charge it and not... | 99 | 5 |
 | 4 | positive | i use this for when am showering and got it to replace bose...	 | 99 | 1 |
 |... | ... | ... | ... | ... |
-문장에 들어가는 단어의 길이가 100개 이상인 데이터를 제거함.
+
+문장에 들어가는 단어의 길이가 100개 이상인 데이터를 제거함.<br>
+
 | count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
 | --- | --- | --- | --- | --- |
 | 0 | negative | i loved this keyboard when first started using it but that didn... | 99 | 1 |
