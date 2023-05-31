@@ -40,7 +40,7 @@
 
 [아마존 리뷰 데이터 @kaggle/DANIEL_IHENACHO](https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset)
 
-### 2-1.원시데이터
+### 2-1.원시 데이터
 | 데이터 | 구분 |
 | --- | --- |
 | `sentiments` | *부정적, 중립적, 긍정적 3가지로 데이터를 나타냅니다..* |
@@ -72,7 +72,7 @@ sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 긍정
 review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.<br> 
 5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br> <br> 
 
-### 2-2.가공데이터
+### 2-2.데이터 가공
 | count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
 | --- | --- | --- | --- | --- |
 | 0 | negative | i loved this keyboard when first started using it but that didn... | 99 | 1 |
