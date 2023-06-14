@@ -90,7 +90,7 @@ sentiments에는 positive는 긍정적, neutral 중립적, negative는 부정적
 | 4 | positive | quality of sound is good however volume level compared to...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
 
-review_score의 값이 4인 데이터 셋들을 5로 변경하고 2와 3을 1로 변경함.<br>
+원활한 학습을 위해 sentiments행에서 neutral 중립적인 행을 6000개를 제거를 했다.
 
 ![p1](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/dfd2ffd6-d12a-4bef-a7d1-d608ece081c2)
 첫 번째 그래프는 변경하지 않아서 변경 없이 원시데이터 그대로 출력이 되었다.<br>
