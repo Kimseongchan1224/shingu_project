@@ -65,13 +65,6 @@
 
 ![onesi](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/5a02640a-77b2-4600-9eb8-8c9e06b1a2c8)<br>
 
-positive 긍정적, neutral  중립적, negative 부정적<br> 
-sentiments에는 긍정, 중립, 부정의 3가지 데이터로 나뉜다 긍정적인 데이터가 50% 이상 차지하고 있다.<br> 
-데이터를 학습시킬 때 중립의 데이터를 분배하거나 삭제가 필요하다.<br>
-텍스트 리뷰 길이에 대한 도수분포표이다. 100개 이상의 단어를 사용한 데이터 삭제가 필요하다.<br>
-review_score는 1~5까지 점수 데이터인데 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다.<br> 
-5점으로 갈수록 대부분 긍정적인 리뷰인데 데이터 전반적으로 긍정적인 데이터가 많다고 볼 수 있다.<br> <br> 
-
 sentiments에는 positive는 긍정적, neutral 중립적, negative는 부정적 3가지로 나뉜다. 긍정적인 데이터가 50%가 차지하고 있다. 데이터를 학습시킬 때 중립의 데이터를 분배하거나 삭제가 필요해 보인다. 텍스트 리뷰에 사용한 단어가 100개 이상인 데이터를 제거하고 학습시킬 예정이다. review_socre는 1점부터 5점까지 점수 데이터이다.
 5➡1➡4➡2➡3 순서로 5점이 제일 많다고 볼 수 있다. 5점으로 갈수록 긍정적인 리뷰이고 1점으로 갈수록 부정적인 리뷰라고 볼 수 있다. 긍정적인 데이터가 전반적으로 더 많다고 볼 수 있다.
 
@@ -86,7 +79,7 @@ sentiments에는 positive는 긍정적, neutral 중립적, negative는 부정적
 | 4 | positive | i use this for when am showering and got it to replace bose...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
 
-문장에 들어가는 단어의 길이가 100개 이상인 데이터를 제거함.<br>
+문장에 들어가는 단어의 길이가 100개 이상인 데이터를 700개를 제거를 했다.
 
 | count| `sentiments` | `cleaned_review` |  `cleaned_review_length` | `review_score` |
 | --- | --- | --- | --- | --- |
