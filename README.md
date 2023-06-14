@@ -95,7 +95,7 @@ sentiments에는 positive는 긍정적, neutral 중립적, negative는 부정적
 ![44](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/c6a6be4c-74ca-4fcb-9f15-5a75b5219305)
 
 중립적인 행을 제거하여 긍정적인 positive와 부정적인 negative인 데이터만 추출했다. 긍정적인 리뷰는 8000건을 넘어가는 반면 부정적인 리뷰는 2000건 미만이다.
-학습을 시킬 때 조정이 필요해 보인다. 리뷰의 길이는 0개~20개의 단어를 사용한 리뷰가 많았다. 사람들은 대부분 0개~20개의 단어로 리뷰를 남긴다는 것을 알 수 있다.
+학습을 시킬 때 조정이 필요해 보인다. 리뷰의 길이는 0개-20개의 단어를 사용한 리뷰가 많았다. 사람들은 대부분 0개-20개의 단어로 리뷰를 남긴다는 것을 알 수 있다.
 review_socre 부분은 negative는 1로 positive는 5로 변경시켜 중립적인 행을 제거한 첫 번째 사진과 데이터가 같다고 볼 수 있다.
 
 | Text | Sentiment |
