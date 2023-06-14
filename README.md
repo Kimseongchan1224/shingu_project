@@ -90,13 +90,13 @@ sentiments에는 positive는 긍정적, neutral 중립적, negative는 부정적
 | 4 | positive | quality of sound is good however volume level compared to...	 | 99 | 5 |
 |... | ... | ... | ... | ... |
 
-원활한 학습을 위해 sentiments행에서 neutral 중립적인 행을 6000개를 제거를 했다.
+원활한 학습을 위해 sentiments행에서 neutral인 중립적인 행을 6000개를 제거를 했다. review_score 부분은 사람들이 남긴 점수를 없애고 negative는 1로 positive는 5로 변경시켜 학습시키기 편하게 변경했다.
 
 ![44](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/c6a6be4c-74ca-4fcb-9f15-5a75b5219305)
 
-첫 번째 그래프는 변경하지 않아서 변경 없이 원시데이터 그대로 출력이 되었다.<br>
-대부분 리뷰 데이터의 텍스트 길이는 0 ~ 20개의 단어 정도 사용하는 것을 볼 수 있고 40 ~ 100개의 단어를 사용한 리뷰는 단어의 가 올라갈수록 줄어드는 것을 볼 수 있다.
-review_score의 1점의 데이터 셋은 6000개로 2000개 정도 증가하였고 5점의 데이터 셋은 10000만 개 이상으로 증가하였다. <br><br>
+중립적인 행을 제거하여 긍정적인 positive와 부정적인 negative인 데이터만 추출했다. 긍정적인 리뷰는 8000건을 넘어가는 반면 부정적인 리뷰는 2000건 미만이다.
+학습을 시킬 때 조정이 필요해 보인다. 리뷰의 길이는 0개~20개의 단어를 사용한 리뷰가 많았다. 사람들은 대부분 0개~20개의 단어로 리뷰를 남긴다는 것을 알 수 있다.
+review_socre 부분은 negative는 1로 positive는 5로 변경시켜 중립적인 행을 제거한 첫 번째 사진과 데이터가 같다고 볼 수 있다.
 
 | Text | Sentiment |
 | --- | --- |
