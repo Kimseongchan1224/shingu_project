@@ -129,6 +129,7 @@ scikit-learn~=1.2.2 <br>
 
 MobileBert를 사용하여 학습시킨 결과다. accuracy의 값이 0.97이다. 정확성이 97% 정도로 학습결과가 나왔다.
 
+![all](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/04e9f506-c39c-4c0f-b89f-7bc253f608bd)
 
 
 
