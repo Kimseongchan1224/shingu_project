@@ -114,7 +114,8 @@ review_socre 부분은 negative는 1로 positive는 5로 변경시켜 중립적�
 ## 3.결과
 
 ### 3-1.개발환경
-tensorflow~=2.9.1 <br>
+tensorflow~=2.9.1 <br>![plot](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/f98f88d7-898f-42b9-a89d-2178da806387)
+
 matplotlib~=3.7.1 <br>
 pandas~=1.4.4 <br>
 numpy~=1.24.2 <br>
@@ -123,9 +124,8 @@ transformers~=4.21.2 <br>
 scikit-learn~=1.2.2 <br>
 
 ### 3-2.학습결과
-![200](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/766222d7-7f4a-4847-b6da-8328444e70df)
 
-
+![Uploading plot.png…]()
 
 
 
