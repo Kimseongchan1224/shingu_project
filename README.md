@@ -121,3 +121,15 @@ numpy~=1.24.2 <br>
 torch~=1.12.1 <br>
 transformers~=4.21.2 <br>
 scikit-learn~=1.2.2 <br>
+
+### 3-2.학습결과
+![200](https://github.com/Kimseongchan1224/shingu_project/assets/79899868/766222d7-7f4a-4847-b6da-8328444e70df)
+
+
+
+
+
+
+
+
+
